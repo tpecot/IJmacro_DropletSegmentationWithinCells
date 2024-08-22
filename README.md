@@ -1,6 +1,6 @@
 # IJmacro_DropletSegmentationWithinCells
 
-This is an ImageJ macro that allows to segment droplets and count the number of droplets per cell.
+This is an ImageJ macro that allows to segment droplets tagged with bodipy and count the number of droplets per cell. The input images can be defined with a channel for Bodipy and a channel for nuclei (DAPI for example) or only bodipy.
 
 # Video tutorials
 
