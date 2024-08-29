@@ -3,6 +3,8 @@
 This is an ImageJ macro that allows to segment droplets tagged with bodipy and count the number of droplets per cell. The input images can be defined with a channel for Bodipy and a channel for nuclei (DAPI for example) or only bodipy.
 
 # Video tutorials
+[Droplet segmentation within cells - installation](https://youtu.be/-_RKU1kemsM) <br>
+[Droplet segmentation within cells - processing](https://youtu.be/XGcnnoDGcok) <br>
 
 # Citations
 If you use this macro, please cite this Github repository and the following publications: <br> 
